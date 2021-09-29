@@ -1,0 +1,3 @@
+`test' AND ( `selection' OR `prioritization' OR `rank') in Title and "regression AND ( learning OR clustering OR logistic OR "support vector machine" OR "Neural Network" OR bayes OR "natural language processing" OR "K nearest neighbors" ) anywhere
+
+limit to ('computer science' and 'civil engineering&construction')

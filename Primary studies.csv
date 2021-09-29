@@ -1,0 +1,30 @@
+﻿Paper,Venue,Publication Year
+Test case design and test case prioritization using machine learning,International Journal of Engineering and Advanced Technology,2019
+A Comparative Study of Vectorization-Based Static Test Case Prioritization Methods,Euromicro Conference on Software Engineering and Advanced Applications,2020
+Optimizing test prioritization via test distribution analysis,ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,2018
+Incorporating fault-proneness estimations into coverage-based test case prioritization methods,Information and Software Technology,2020
+Static test case prioritization using topic models,Empirical Software Engineering,2014
+Learning-to-Rank vs Ranking-to-Learn: Strategies for Regression Testing in Continuous Integration,IEEE/ACM 42nd International Conference on Software Engineering,2020
+Separating passing and failing test executions by clustering anomalies,Software Quality Journal,2017
+Learning for test prioritization: An industrial case study,ACM SIGSOFT Symposium on the Foundations of Software Engineering,2016
+Multi-Armed Bandit Test Case Prioritization in Continuous Integration Environments: A Trade-off Analysis,Brazilian Symposium on Systematic and Automated Software Testing,2020
+Reinforcement learning based test case prioritization for enhancing the security of software,IEEE International Conference on Data Science and Advanced Analytics,2020
+Learning-based prioritization of test cases in continuous integration of highly-configurable software,ACM International Systems and Software Product Line Conference,2020
+Version specific test case prioritization approach based on artificial neural network,Journal of Intelligent & Fuzzy Systems,2019
+Weight and Cluster Based Test case Prioritization Technique,"IEEE Annual Information Technology, Electronics and Mobile Communication Conference",2019
+Machine learning based test case prioritization in object oriented testing,International Journal of Recent Technology and Engineering,2019
+Using the case-based ranking methodology for test case prioritization,IEEE International Conference on Software Maintenance,2006
+Clustering Test Cases to Achieve Effective and Scalable Prioritisation Incorporating Expert Knowledge,Proceedings of the Eighteenth International Symposium on Software Testing and Analysis,2009
+A Multi-Armed Bandit Approach for Test Case Prioritization in Continuous Integration Environments,IEEE Transactions on Software Engineering,2020
+A clustering approach to improving test case prioritization: An industrial case study,IEEE International Conference on Software Maintenance,2011
+XCS as a reinforcement learning approach to automatic test case prioritization,Genetic and Evolutionary Computation Conference,2020
+Studying Test Case Failure Prediction for Test Case Prioritization,International Conference on Predictive Models and Data Analytics in Software Engineering,2017
+Using semi-supervised clustering to improve regression test selection techniques,"International Conference on Software Testing, Verification and Validation",2011
+Cluster‐based test cases prioritization and selection technique for agile regression testing,Journal of Software: Evolution and Process,2017
+Reinforcement learning for automatic test case prioritization and selection in continuous integration,ACM SIGSOFT International Symposium on Software Testing and Analysis,2017
+A Framework for Continuous Regression and Integration Testing in IoT Systems Based on Deep Learning and Search-Based Techniques,IEEE Access,2020
+"Recurrent Neural Network for Web Services Performance Forecasting, Ranking and Regression Testing",Asia-Pacific Signal and Information Processing Association Annual Summit and Conference,2019
+An improvement to test case failure prediction in the context of test case prioritization,International Conference on Predictive Models and Data Analytics in Software Engineering,2018
+Using Weighted Attributes to Improve Cluster Test Selection,International Conference on Software Security and Reliability,2012
+An Empirical Study on Bayesian Network-based Approach for Test Case Prioritization,"International Conference on Software Testing, Verification, and Validation",2008
+System-Level Test Case Prioritization Using Machine Learning,IEEE International Conference on Machine Learning and Applications,2016

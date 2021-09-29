@@ -1,0 +1,30 @@
+Paper,Subjects,Dataset,Source (+ means extended),Programming Language
+Using the case-based ranking methodology for test case prioritization,SIR (Space),SIR,Existing+,C
+Using weighted attributes to improve cluster test selection,SIR (Space and Flex),SIR,Existing+,C
+Static test case prioritization using topic models,"SIR (Ant v7, Derby v1, Derby v2, Derby v3, and Derby v5)",SIR,Existing,Java
+A Comparative Study of Vectorization-Based Static Test Case Prioritization Methods,"SIR (Ant v7, Derby v1, Derby v2, Derby v3, and Derby v5)",SIR,Existing,Java
+Using semi-supervised clustering to improve regression test selection techniques,"SIR (Flex, Grep, and Gzip)",SIR,Existing+,C
+Separating passing and failing test executions by clustering anomalies,"SIR (NanoXML, Siena, and Sed)",SIR,Existing+,Java
+Machine Learning based Test Case Prioritization in Object Oriented Testing,SIR (XML Security),SIR,Existing+,Java
+Clustering test cases to achieve effective and scalable prioritisation incorporating expert knowledge,"SIR (Printtokens, Schedule, Space, Gzip, Sed, Vim, and Bash)",SIR,Existing+,C
+Studying test case failure prediction for test case prioritization,"Defects4j (JFreeChart, Closure Compiler, Lang, Math, and Joda Time)",Defects4j,Existing+,Java
+Incorporating fault-proneness estimations into coverage-based test case prioritization methods,"Defects4j (JFreechart, Closure Compiler, Lang, Math, and Joda Time)",Defects4j,Existing+,Java
+An improvement to test case failure prediction in the context of test case prioritization,"Defects4j (JFreeChart, Closure Compiler, Lang, Math, and Joda Time)",Defects4j,Existing+,Java
+Reinforcement learning for automatic test case prioritization and selection in continuous integration,"Paint Control, IOF/ROL, GSDTSR",ABB Robotics & Google Dataset,Existing,Multiple
+Reinforcement Learning Based Test Case Prioritization for Enhancing the Security of Software,"Paint Control, IOF/ROL, GSDTSR",ABB Robotics & Google Dataset,Existing,Multiple
+XCS as a reinforcement learning approach to automatic test case prioritization,"Paint Control, IOF/ROL, GSDTSR",ABB Robotics & Google Dataset,Existing,Multiple
+A Multi-Armed Bandit Approach for Test Case Prioritization in Continuous Integration Environments,"Paint Control, IOF/ROL, GSDTSR, Fastjson, DSpace, Druid, Deeplearning4j, Guava, OkHttp, Retrofit, and ZXing",ABB Robotics & Google Dataset & Others,Existing,Multiple
+Multi-Armed Bandit Test Case Prioritization in Continuous Integration Environments: A Trade-off Analysis,"Druid, Deeplearning4j, Guava, IOF/ROL, OkHttp, Retrofit, and ZXing",Unknown,Own,Java
+Optimizing test prioritization via test distribution analysis,GitHub (50 open-source projects),GitHub,Own,C/Java
+"Recurrent Neural Network for Web Services Performance Forecasting, Ranking and Regression Testing",GitHub (WSDrean),GitHub,Own,HTML/CSS
+Learning-based prioritization of test cases in continuous integration of highly-configurable software,GitLab (31 projects),GitLab,Own,C
+An empirical study on bayesian network-based approach for test case prioritization,"(Ant, XML-security, Jmeter, Nanoxml, and Galileo)",Infrastructure Supporting Experimentation,Existing+,Java
+Learning-to-Rank vs Ranking-to-Learn: Strategies for Regression Testing in Continuous Integration,"Apache Commons (Codec, Compress, Imaging, Io, Lang, and Math)",Apache Commons,Own,Java
+Test Case Design and Test Case Prioritization using Machine Learning,A user interface application,Unknown,Own,Unknown
+System-level test case prioritization using machine learning,A body comfort system and an automotive industry data,Unknown,Existing+,DELTARX
+Version specific test case prioritization approach based on artificial neural network,A credit card approval system and a registration-verifier application,Unknown,Existing+,Java
+A Framework for Continuous Regression and Integration Testing in IoT Systems Based on Deep Learning and Search-Based Techniques,A global system for mobile communications,Unknown,Existing,Multiple
+A clustering approach to improving test case prioritization: An industrial case study,A financial subsystem of Microsoft Dynamics Ax,Unknown,Existing+,Multiple
+Learning for test prioritization: an industrial case study,A cloud-software providers,Salesforce.com,Own,Java
+Weight and Cluster Based Test case Prioritization Technique,A local industry project,Unknown,Own,Unknown
+Cluster-based test cases prioritization and selection technique for agile regression testing,A business model,Unknown,Own,Unknown

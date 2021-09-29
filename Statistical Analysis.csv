@@ -1,0 +1,73 @@
+Paper,Subject,Programming language,Test suite size,Code coverage,Code complexity,Textual data,Execution history,User input,Model,Average NAPFD
+Incorporating fault-proneness estimations into coverage-based test case prioritization methods,Chart,java,2205,1,1,0,0,0,RM,0.57545
+,Closure,java,7927,1,1,0,0,0,RM,0.678
+,Lang,java,3602,1,1,0,0,0,RM,0.50715
+,Math,java,2245,1,1,0,0,0,RM,0.6133
+,Time,java,4130,1,1,0,0,0,RM,0.594
+Multi-Armed Bandit Test Case Prioritization in Continuous Integration Environments: A Trade-off Analysis,Druid,java,2391,0,0,0,1,0,RL,0.86985
+,Deeplearning4j,java,117,0,0,0,1,0,RL,0.806733333
+,Guava,java,568,0,0,0,1,0,RL,0.968216667
+,IOF/ROL,java,1941,0,0,0,1,0,RL,0.479733333
+,OkHttp,java,289,0,0,0,1,0,RL,0.901116667
+,Retrofit,java,206,0,0,0,1,0,RL,0.9804
+,ZXing,java,124,0,0,0,1,0,RL,0.98875
+Learning-based prioritization of test cases in continuous integration of highly-configurable software,addr-san,C,29,0,0,0,1,0,RL,0.651516667
+,cent-op1,C,17,0,0,0,1,0,RL,0.806366667
+,cent-op2,C,29,0,0,0,1,0,RL,0.954883333
+,cent-op3,C,26,0,0,0,1,0,RL,0.9953
+,debi-cross,C,29,0,0,0,1,0,RL,0.9676
+,debi-op,C,17,0,0,0,1,0,RL,0.9963
+,fed-lib,C,57,0,0,0,1,0,RL,0.978466667
+,fed-mb1,C,40,0,0,0,1,0,RL,0.97765
+,fed-mb2,C,56,0,0,0,1,0,RL,0.996566667
+,fed-op1,C,17,0,0,0,1,0,RL,0.748366667
+,fed-op2,C,29,0,0,0,1,0,RL,0.9829
+,fed-op3,C,41,0,0,0,1,0,RL,0.98485
+,fed-op-r,C,41,0,0,0,1,0,RL,0.977116667
+,fed-op4,C,60,0,0,0,1,0,RL,0.993083333
+,fed-op-f,C,57,0,0,0,1,0,RL,0.965266667
+,fed-op-m,C,45,0,0,0,1,0,RL,0.997
+,fed-und,C,57,0,0,0,1,0,RL,0.986866667
+,freebsd,C,33,0,0,0,1,0,RL,0.998466667
+,mingw32,C,16,0,0,0,1,0,RL,0.991583333
+,mingw64,C,16,0,0,0,1,0,RL,0.991533333
+,pages,C,29,0,0,0,1,0,RL,0.74255
+,tumb-op,C,41,0,0,0,1,0,RL,0.98755
+,tumb-op-r,C,41,0,0,0,1,0,RL,0.993083333
+,tumb-op-c,C,57,0,0,0,1,0,RL,0.983466667
+,tumb-op-g,C,56,0,0,0,1,0,RL,0.983416667
+,tumb-op-g7,C,57,0,0,0,1,0,RL,0.988633333
+,tumb-und,C,56,0,0,0,1,0,RL,0.985766667
+,ubun-op,C,57,0,0,0,1,0,RL,0.95025
+,und-san,C,29,0,0,0,1,0,RL,0.82005
+,vs-x86,C,18,0,0,0,1,0,RL,0.97475
+,vs-x86_64,C,18,0,0,0,1,0,RL,0.9618
+Clustering test cases to achieve effective and scalable prioritisation incorporating expert knowledge,printtokens,C,317,1,0,0,0,1,CL,0.90375
+,schedule,C,225,1,0,0,0,1,CL,0.9015
+,space,C,158,1,0,0,0,1,CL,0.9345
+,gzip,C,212,1,0,0,0,1,CL,0.996
+,sed,C,370,1,0,0,0,1,CL,0.905
+,vim,C,975,1,0,0,0,1,CL,0.903
+,bash,C,1061,1,0,0,0,1,CL,0.144
+A Multi-Armed Bandit Approach for Test Case Prioritization in Continuous Integration Environments,Druid,java,2391,0,0,0,1,0,RL,0.86985
+,Fastjson,java,2461,0,0,0,1,0,RL,0.918
+,Deeplearning4j,java,117,0,0,0,1,0,RL,0.806733333
+,Dspace,java,211,0,0,0,1,0,RL,0.9682
+,Guava,java,568,0,0,0,1,0,RL,0.968216667
+,OkHttp,java,289,0,0,0,1,0,RL,0.901116667
+,Retrofit,java,206,0,0,0,1,0,RL,0.9804
+,ZXing,java,124,0,0,0,1,0,RL,0.98875
+,IOF/ROL,java,1941,0,0,0,1,0,RL,0.479733333
+,Paint Control,java,1980,0,0,0,1,0,RL,0.913233333
+,GSDTSR,java,5555,0,0,0,1,0,RL,0.989366667
+Version specific test case prioritization approach based on artificial neural network,Credit Card Approval System(version1),java,416,1,1,0,0,0,RM,0.855
+,Credit Card Approval System(version2),java,416,1,1,0,0,0,RM,0.93
+,Credit Card Approval System(version2),java,416,1,1,0,0,0,RM,0.74
+,Registration-Verifier Application(version1),java,523,1,1,0,0,0,RM,0.805
+,Registration-Verifier Application(version2,java,523,1,1,0,0,0,RM,0.73
+A clustering approach to improving test case prioritization: An industrial case study,Microsoft Dynamics Ax(version1),C,656,1,1,0,1,0,CL,0.73882
+,Microsoft Dynamics Ax(version2),C,908,1,1,0,1,0,CL,0.64345
+Learning for test prioritization: an industrial case study,data from salesforce.com,java,"45,000",1,0,1,1,0,RM,0.85
+System-level test case prioritization using machine learning,Body Comfort System.,C++,128,1,0,1,1,0,RM,0.615
+,Automotive Industry Data.,C++,645,1,0,1,1,0,RM,0.745
+tonella2006using,Space,C,155,1,1,0,0,1,RM,0.913462

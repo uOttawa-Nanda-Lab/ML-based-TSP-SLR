@@ -1,0 +1,3 @@
+((``Document Title'':`test' AND ( `selection' OR `prioritization' OR `rank'))   AND ``Full Text Only'':`regression' AND ( `learning' OR `clustering' OR `logistic' OR `support vector machine' OR `Neural Network' OR `bayes' OR `natural language processing' OR `K nearest neighbors' ))
+
+limit to ('conference','journal' and 'book')
